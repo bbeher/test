@@ -1,0 +1,44 @@
+[
+  {
+    "ControllerName": "Q00001",
+    "ControllerLSDBID": 0,
+    "GDPRWaveValidity":"1",
+    "ProcessorName": "add sdasjj",
+    "ProcessorLSDBID": "",
+    "ProcessorEEA": "Yes",
+    "RegulatedJurisdiction": "Yes",
+    "Status": "Valid",
+    "PEDStatus": "Yes",
+    "DeltaView": "No",
+    "IDTA": "Yes",
+    "IDTALink": ""
+  },
+  {
+    "ControllerName": "Q00001",
+    "ControllerLSDBID": 0,
+    "GDPRWaveValidity":"1",
+    "ProcessorName": "add sdasjj",
+    "ProcessorLSDBID": "",
+    "ProcessorEEA": "Yes",
+    "RegulatedJurisdiction": "Yes",
+    "Status": "Valid",
+    "PEDStatus": "Yes",
+    "DeltaView": "No",
+    "IDTA": "Yes",
+    "IDTALink": ""
+  },
+  {
+    "ControllerName": "Q00001",
+    "ControllerLSDBID": 0,
+    "GDPRWaveValidity":"1",
+    "ProcessorName": "add sdasjj",
+    "ProcessorLSDBID": "",
+    "ProcessorEEA": "Yes",
+    "RegulatedJurisdiction": "Yes",
+    "Status": "Valid",
+    "PEDStatus": "Yes",
+    "DeltaView": "No",
+    "IDTA": "Yes",
+    "IDTALink": ""
+  }
+]

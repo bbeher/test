@@ -19,6 +19,8 @@ import App from './App';
 
 // import DemoRoute from "./demoRoute";
 
+import LandingPage from './layoutCreation/landingPage';
+
 import "./styles/style.scss";
 
 import { BrowserRouter } from 'react-router-dom';
@@ -112,7 +114,8 @@ const posts = [
 function render() {
   ReactDOM.render((
     <BrowserRouter>
-      <App />
+      {/* <App /> */}
+      <LandingPage/>
       {/* <TableComponent products={PRODUCTS} /> */}
       {/* <AppTest /> */}
       {/* <AuthorQuiz {...state} onAnswerSelected={onAnswerSelected} /> */}

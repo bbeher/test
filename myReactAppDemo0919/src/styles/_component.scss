@@ -16,3 +16,31 @@ h1 {
         padding: 0 20px;
     }
 }
+
+.logo-container {
+    img {
+        max-width: 100%;
+    }
+}
+
+.content-section {
+    h1 {
+        font-size: 30px;
+    }
+}
+
+.ubs-nav {
+    border: 1px solid;
+    padding: 0 !important;
+    .navbar-nav li:not(:last-child) {
+        border-right: 1px solid;
+        .nav-link {
+            padding: 10px 20px;
+        }
+    }
+}
+
+.announcement {
+    border: 1px solid;
+    padding: 15px;
+}

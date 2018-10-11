@@ -91,7 +91,9 @@ class NavLink extends Component {
           to={this.props.path}
           onClick={() => this.props.onClick()}
         >
-          {this.props.text}</Link>
+          {(this.props.text ? this.props.text : <i className="fa fa-question"></i>)}
+          
+          </Link>
       </li>
     );
   }

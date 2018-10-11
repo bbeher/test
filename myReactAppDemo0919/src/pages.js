@@ -5,8 +5,8 @@ import FlavorForm from "./layoutCreation/selectCombo";
 
 
 export const Home = () => (
-    <div>
-        <h1>Topics</h1>
+    <div className="announcement">
+        <h1>Announcements</h1>
         <ul>
             <li>
                 UK became an adequate jurisdiction on 17/02/18
