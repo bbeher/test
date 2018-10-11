@@ -79,7 +79,7 @@ function SampleGridTwo(props) {
             {/* <h3>Grid data fetching from state data</h3> */}
             {/* <br /> */}
             {/* <TableComponent /> */}
-            <br /><br />
+            {/* <br /><br /> */}
 
             {/* <h3>Grid data fetching from json</h3> */}
             <br />

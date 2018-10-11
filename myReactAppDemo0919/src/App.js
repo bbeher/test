@@ -44,7 +44,7 @@ class Header extends Component {
   render() {
     return (
       <div>
-        <nav className="navbar navbar-expand-lg navbar-light  bg-light">
+        <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <div className="container justify-content-center">
             {/* <Link className="navbar-brand" to="/">Project Title</Link> */}
             <ul className="navbar-nav">

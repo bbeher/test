@@ -7,14 +7,14 @@ const Main = () => (
     <main className="container">
         <div className="row">
             <div className="col-sm-2 logo-container">
-                <a href="#">
+                <Link to="/">
                     <img src="../../public/images/ubs/logo-ubs.png" alt="UBS brand logo" />
-                </a>
+                </Link>
             </div>
 
             <div className="col-sm-10 content-section">
                 <br/>
-                <h1>Landing page title text</h1>
+                <h1>Data Transfer Tool (DTT)</h1>
                 <br/>
                 <Header />
                 <br/>
@@ -60,7 +60,7 @@ class Header extends Component {
         return (
             <div>
                 <nav className="navbar navbar-expand-lg navbar-light ubs-nav">
-                    <div className="container justify-content-center">
+                    <div className="nav-container">
                         {/* <Link className="navbar-brand" to="/">Project Title</Link> */}
                         <ul className="navbar-nav">
                             {this.state.links.map((link, i) =>
